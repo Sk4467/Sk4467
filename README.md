@@ -1,6 +1,6 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/iftesha-najnin-584aa5182/">
-  <img align="left" alt="Ketan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sk-shahid-47297b250/">
+  <img align="left" alt="Shahid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/Iftesha5">
@@ -16,7 +16,7 @@ Hi, I'm SK Shahid, an aspiring Data Scientist. I am a physicist turned Data scie
   
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP, Computer Vision.
 - 👯 I’m looking to collaborate on AI/ML driven applications. 
-- 📫 How to reach me: [Email](ifteshanajnin786@gmail.com);
+- 📫 How to reach me: [Email](skshahid4467@gmail.com);
 - 📝 [Resume](https://drive.google.com/file/d/1j72LoW-xmpSkf-ZTIygEWgXKxBzLhql7/view?usp=sharing)
 
 
@@ -32,6 +32,8 @@ Hi, I'm SK Shahid, an aspiring Data Scientist. I am a physicist turned Data scie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
+  <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="scikit_learn" width="48" height="48"/>
+
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
 </p>
