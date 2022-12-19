@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://twitter.com/Iftesha5">
-  <img align="left" alt="Iftesha Najnin| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Iftesha Najnin| Twitter" width="22px" src="https://github.com/tuomastik/icons" />
 </a>
 
 <br />
