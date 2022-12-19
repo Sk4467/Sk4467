@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://twitter.com/Iftesha5">
-  <img align="left" alt="Iftesha Najnin| Twitter" width="22px" src="https://github.com/tuomastik/icons" />
+  <img align="left" alt="Iftesha Najnin| Twitter" width="22px" src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_32x32.png" />
 </a>
 
 <br />
