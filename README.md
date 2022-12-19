@@ -1,8 +1,10 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/sk-shahid-47297b250/">
+  <img align="left" alt="Iftesha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-
-<a href="https://twitter.com/Iftesha5">
-  <img align="left" alt="Iftesha Najnin| Twitter" width="22px" src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_32x32.png?raw=true" />
+<a href="https://www.kaggle.com/sk4467/account">
+  <img align="left" alt="Sk4467_kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />
 </a>
 
 <br />
@@ -27,7 +29,7 @@ Hi, I'm SK Shahid, an aspiring Data Scientist. I am a physicist turned Data scie
   <img src="https://img.icons8.com/fluency/512/mysql-logo.png" style="height:48px;width:48px" />
   <img src="https://img.icons8.com/color/512/tableau-software.png" style="height:48px;width:48px" />
   <img src="https://img.icons8.com/color/512/tensorflow.png" style="height:48px;width:48px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="mongodb" width="48" height="48"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
   <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="scikit_learn" width="48" height="48"/>
