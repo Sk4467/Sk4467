@@ -18,6 +18,13 @@ Hi, I'm SK Shahid, an aspiring Data Scientist. I am a physicist turned Data scie
 - 👯 I’m looking to collaborate on AI/ML driven applications. 
 - 📫 How to reach me: [Email](skshahid4467@gmail.com);
 - 📝 [Resume](https://drive.google.com/drive/folders/1OviPmj77FWQ57-cbKXZ8UHTnqVaJPFUW)
+<p align="left">
+  <a href="https://github.com/Sk4467/Sk4467">
+    <img src="https://komarev.com/ghpvc/?username=Sk4467" alt="page views" />
+  </a>
+<a href="https://github.com/Sk4467?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sk4467?style=flat&logo=github">
+</a>
 
 
 ## Languages and Tools:
